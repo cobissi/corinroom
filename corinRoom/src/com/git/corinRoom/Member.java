@@ -1,7 +1,5 @@
 package com.git.corinRoom;
 
-
-
 public class Member {
 	// 클래스 멤버변수
 	String name;			// 이름(문자열)
